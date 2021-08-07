@@ -1,2 +1,2 @@
 # Keylogger
-This keylogger will send the typed key on victims machine to the attackers mail 
+This keylogger will send the typed key on victim's machine to the attacker's mail 
